@@ -1,10 +1,8 @@
 # C-Hotel-Project
-A program I have made during my studies of C.
-This program uses unsafe functions that do not support buffer overflow (scanf for example) 
-When using the program, please do not use spaces. 
-For example, when running the exe, and pressing 2 to add a customer, you will be asked for a name.
-Simply write your first name.
-To safely when the program is stuck, press Ctrl+C.
+A program I have made during my studies of C. 
+This program uses unsafe functions that do not support buffer overflow (scanf for example).
+When using the program, please do not use spaces. For example, when running the exe, 3 to add a doctor, you will be asked for a name, simply write the first name. 
+To safely exit when the program is stuck, press Ctrl+C.
 
 Thank you.
 
